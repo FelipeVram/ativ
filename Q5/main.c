@@ -30,7 +30,7 @@ int main()
         }
         for (int j = 0; j <= i; j++)
         {
-            printf("%3d", mat[i][j]);
+            printf("%2d", mat[i][j]);
         }
         printf("\n");
     }
